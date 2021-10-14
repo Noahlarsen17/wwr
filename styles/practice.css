@@ -1,8 +1,23 @@
+body {
+    font-size: 30px;
+}
+
 img {
     display: block;
-    width: 100%;
+    border: 5px solid blue;
+    width: 75%;
+    margin: 0 auto;
 }
 
 h1, p {
-    display: inline-block;
+    border: 5px solid green;
+    text-align: center;
+}
+
+#image-box {
+    text-align: center;
+}
+
+p {
+    font-size: 3em;
 }
